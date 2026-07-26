@@ -1,2 +1,12 @@
 # java
-wowodjasdjsakdasjcisadjasiopdsajodsajpdasdojasdpasodawsda
+盘符名称+冒号说明盘符切换
+dir说明查看当前路径内容
+cd目录说明进入单级目录
+cd..说明回退到上一级目录
+cd目录1/目录2进入多级目录
+cd/回退到盘符目录
+cls清除屏幕
+exit退出出命令提示符窗口
+javac编译工具
+Java运行工具jdb调试工具
+jhat内存分析工具
